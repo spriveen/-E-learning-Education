@@ -16,10 +16,10 @@ const Footer = () => {
           <div className="space-y-4 max-w-[300px]">
             <h1 className="text-2xl font-bold">The Coding Journey</h1>
             <p className="text-dark2">
-              TCJ is a platform dedicated to empowering aspiring developers.
-              From beginner tutorials to advanced programming concepts, we
-              provide a comprehensive learning experience designed to help you
-              master coding skills, build projects, and launch your tech career.
+              The Coding Journey is your go-to platform for becoming a skilled developer. 
+              Whether you're just starting out or diving into advanced topics, TCJ offers step-by-step tutorials,
+              hands-on projects, and 
+              expert guidance to help you learn, grow, and kickstart a successful tech career.
             </p>
           </div>
           {/* second section */}
@@ -94,6 +94,11 @@ const Footer = () => {
           </div>
         </div>
       </motion.div>
+
+      {/* Developer credit line */}
+      <div className="text-center mt-10 text-sm text-black">
+        Developed By <span className="font-bold">Riveen_Official</span>
+      </div>
     </footer>
   );
 };
