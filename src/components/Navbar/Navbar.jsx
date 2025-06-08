@@ -55,7 +55,7 @@ const Navbar = () => {
                 </a>
               </li>
             ))}
-            <button className="primary-btn">Sign In</button>
+            <button className="primary-btn">Log In</button>
           </ul>
         </div>
         {/* Mobile Hamburger menu section */}
