@@ -30,14 +30,16 @@ const Subscribe = () => {
               450K+ Students are learning from us
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Recusandae iusto minima
+              450K+ Students Are Learning With Us
+        Join a growing community of over 450,000 students building their future through coding. 
+        Learn at your own pace with expert-led
+      courses designed to help you succeed—no matter where you start.
             </p>
             <a
               href=""
               className="primary-btn !mt-8 inline-flex items-center gap-4 group"
             >
-              Subscribe Now
+            Unlock Access
               <FaBell className="group-hover:animate-bounce group-hover:text-lg duration-200" />
             </a>
           </div>
