@@ -17,15 +17,15 @@ const Banner2 = () => {
               Join Our Community to Start your Journey
             </h1>
             <p className="text-dark2">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Recusandae iusto minima ad ut id eos accusantium aut, aperiam quis
-              incidunt!
+              Over 450,000+ students have already started their coding careers with us. 
+              Whether you're a complete beginner or looking to advance your skills, 
+              our hands-on courses and expert instructors will guide you every step of the way
             </p>
             <a
               href="https://chat.whatsapp.com/FQSKgJ5f1eIAhlyF5sVym0"
               className="primary-btn !mt-8"
             >
-              Join Now
+              Enroll Now
             </a>
           </div>
         </motion.div>
